@@ -3,26 +3,17 @@
         {
             "id": 1,
             "type": "tomate_pera",
-            "name": "Tomate Pera",
-            "quantity": "5,5"
+            "quantity": 5.5
         },
         {
             "id": 2,
             "type": "tomate_pera",
-            "name": "Tomate Pera",
-            "quantity": "5,5"
+            "quantity": 3.5
         },
         {
             "id": 3,
             "type": "tomate_pera",
-            "name": "Tomate Pera",
-            "quantity": "5,5"
-        },
-        {
-            "id": 4,
-            "type": "tomate_pera",
-            "name": "Tomate Pera",
-            "quantity": "5,5"
+            "quantity": 6.5
         }
     ],
     "success": true
