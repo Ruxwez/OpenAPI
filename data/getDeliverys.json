@@ -2,7 +2,25 @@
     "data": [
         {
             "id": 1,
-            "type": "",
+            "type": "tomate_pera",
+            "name": "Tomate Pera",
+            "quantity": "5,5"
+        },
+        {
+            "id": 2,
+            "type": "tomate_pera",
+            "name": "Tomate Pera",
+            "quantity": "5,5"
+        },
+        {
+            "id": 3,
+            "type": "tomate_pera",
+            "name": "Tomate Pera",
+            "quantity": "5,5"
+        },
+        {
+            "id": 4,
+            "type": "tomate_pera",
             "name": "Tomate Pera",
             "quantity": "5,5"
         }
